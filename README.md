@@ -38,7 +38,7 @@ As seguintes ferramentas foram utilizadas neste projeto:
 
 - [Windows](https://www.microsoft.com/pt-br/windows/)
 - [Linux](https://github.com/torvalds/linux)
-- [MacOs](hhttps://www.apple.com/br/)
+- [MacOs](https://www.apple.com/br/)
 
 
 <br>
